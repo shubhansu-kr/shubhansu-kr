@@ -17,7 +17,8 @@ Passionate about technology and want to learn & explore new technologies.
 
 ---
 
-[![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr)
+![snake svg](https://github.com/shubhansu-kr/shubhansu-kr/blob/output/github-contribution-grid-snake.svg)
+<!-- [![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr) -->
 
 
 ### 📊 Some Fun Stats:
@@ -66,5 +67,5 @@ ___
 
 
 
-### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/shubhansu-kr/shubhansu-kr/blob/output/github-contribution-grid-snake.svg)
+
+
