@@ -68,6 +68,3 @@ ___
 
 ### 🐍 Watch Snake eating my contribution:
 ![snake svg](https://github.com/shubhansu-kr/shubhansu-kr/blob/output/github-contribution-grid-snake.svg)
-
-
-
