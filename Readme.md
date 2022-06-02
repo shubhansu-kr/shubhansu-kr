@@ -1,4 +1,4 @@
-## Hello, I'm [Shubhansu Kumar!](https://google.com) <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hello, I'm [Shubhansu Kumar!](https://www.linkedin.com/in/shubhansu-kr) <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://git.io/typing-svg)
     
 
