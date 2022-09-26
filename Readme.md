@@ -66,7 +66,5 @@ ___
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-
-
-
-
+### MyBadges
+[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
