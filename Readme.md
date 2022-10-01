@@ -5,7 +5,7 @@
 
 ## About:
 
-A Student and Learner from Bihar, India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.   
+A Student and Learner from India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.   
 Passionate about technology and want to learn & explore new technologies. 
 
 
@@ -24,6 +24,7 @@ Passionate about technology and want to learn & explore new technologies.
 
 ### 📊 Some Fun Stats:
 ![image](https://github-readme-stats.vercel.app/api?username=shubhansu-kr&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p> -->
 <!-- ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu-kr&theme=midnight-purple)  -->
 
 
@@ -40,12 +41,17 @@ ___
 
 
 ## Competitive Programming 
-- [LeetCode](https://leetcode.com/shubhansu-kr/) : 250+ Problems (Data Structures and Algorithms).
+- [LeetCode](https://leetcode.com/shubhansu-kr/) : 450+ Problems (Data Structures and Algorithms).
 - [CodeForces](https://codeforces.com/profile/shubhansu-kr) : Newbie.
 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhansu-kr)
-                  
+
+___
+
+## Streaks
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p>
 
 ___  
 
@@ -64,7 +70,9 @@ ___
   <Image height="180" src="https://github-profile-trophy.vercel.app/?username=shubhansu-kr&column=8&theme=algolia&no-frame=true"/>
 </a> -->
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+
+___
 
 ### MyBadges
 [![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
