@@ -34,7 +34,9 @@ Passionate about technology and want to learn & explore new technologies.
 
 ## Streaks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p>
+![Github-Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr)
+
+---
 
 ### Connect with me: [shubhansu-kr.me](https://linktr.ee/shubhansu)
 
@@ -45,7 +47,14 @@ Passionate about technology and want to learn & explore new technologies.
 [![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/shubhansu_kumar/)
 &nbsp;&nbsp;
 
-![Badges](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+---
+
+### MyBadges
+
+[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p> -->
+<!-- ![Header png](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
 <!-- [![website](./Images/mail-light.svg)](mailto:shubhansu2021@gmail.com)  -->
 
@@ -62,6 +71,3 @@ Passionate about technology and want to learn & explore new technologies.
 <!-- [![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr) -->
 
 <!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
-### MyBadges
-
-[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
