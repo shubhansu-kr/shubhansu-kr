@@ -1,61 +1,44 @@
-## Hello, I'm [Shubhansu Kumar!](https://www.linkedin.com/in/shubhansu-kr) 
-<!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
+# Hello, I'm [Shubhansu Kumar!](https://www.linkedin.com/in/shubhansu-kr)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://git.io/typing-svg)
-    
 
-## About:
+## About
 
-A Student and Learner from India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.   
-Passionate about technology and want to learn & explore new technologies. 
+A Student and Learner from India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.
+Passionate about technology and want to learn & explore new technologies.
 
-
-### Key Features:
+### Key Features
 
 - Learning MERN Stack.
 - Intrested in WEB3 & CyberSecurity.
 - Practice DSA Everyday.
 
-
 ---
 
 ![snake svg](https://github.com/shubhansu-kr/shubhansu-kr/blob/output/github-contribution-grid-snake.svg)
-<!-- [![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr) -->
 
+### 📊 Some Fun Stats
 
-### 📊 Some Fun Stats:
 ![image](https://github-readme-stats.vercel.app/api?username=shubhansu-kr&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p> -->
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu-kr&theme=midnight-purple)  -->
 
+---
 
-<!-- ### 🍁 My Skill stack :
+## Competitive Programming
 
-|               |           |
-|       ---     |    ---    |
-| `Web-Dev`     | ![HTML5](https://Image.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://Image.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://Image.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://Image.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
-| `Languages`   | ![C++](https://Image.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![C](https://Image.shields.io/badge/-C-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://Image.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![MySQL](https://Image.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
-| `Tools`       | ![VS Code](https://Image.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://Image.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://Image.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![devops](https://Image.shields.io/badge/-devops-034D9A?style=for-the-badge&logo=devops%2B%2B)| -->
-
-
-___  
-
-
-## Competitive Programming 
-- [LeetCode](https://leetcode.com/shubhansu-kr/) : 450+ Problems (Data Structures and Algorithms).
+- [LeetCode](https://leetcode.com/shubhansu-kr/) : 550+ Problems (Data Structures and Algorithms).
 - [CodeForces](https://codeforces.com/profile/shubhansu-kr) : Newbie.
-
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhansu-kr)
 
-___
+---
 
 ## Streaks
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p>
+![Github-Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr)
 
-___  
+---
 
-### Connect with me:
+### Connect with me: [shubhansu-kr.me](https://linktr.ee/shubhansu)
 
 [![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/shubhansu-kr)
 [![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/shubhansu-kr)
@@ -63,6 +46,16 @@ ___
 [![Ig](./Images/instagram-light.svg)](https://www.instagram.com/shubhansu_kumar/)
 [![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/shubhansu_kumar/)
 &nbsp;&nbsp;
+
+---
+
+### MyBadges
+
+[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p> -->
+<!-- ![Header png](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+
 <!-- [![website](./Images/mail-light.svg)](mailto:shubhansu2021@gmail.com)  -->
 
 <!-- <h2> Github Profile Trophy</h2>
@@ -70,9 +63,11 @@ ___
   <Image height="180" src="https://github-profile-trophy.vercel.app/?username=shubhansu-kr&column=8&theme=algolia&no-frame=true"/>
 </a> -->
 
+<!-- ### 🍁 My Skill stack :
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-___
+<!-- ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu-kr&theme=midnight-purple)  -->
 
-### MyBadges
-[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
+<!-- [![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr) -->
+
+<!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
