@@ -1,25 +1,19 @@
 # Hello, I'm [Shubhansu Kumar!](https://www.linkedin.com/in/shubhansu-kr)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://www.linkedin.com/in/shubhansu-kr)
 
 ## About
 
-A Student and Learner from India, currently persuing B.Tech in Computer Science & Engineering from Lovely professional University.
-Passionate about technology and want to learn & explore new technologies.
+👋 Hi there! I'm shubhansu-kr, a passionate software developer with a love for coding and problem-solving. My expertise lies in C/C++, Java, MERN Stack, and I enjoy building scalable and efficient applications. Currently pursuing B.Tech in Computer Science from LPU, I'm dedicated to staying updated with the latest technologies and contributing to open-source projects. When I'm not glued to my computer screen, you can find me playing chess or volleyball. Let's connect and collaborate on exciting projects!
 
-### Key Features
-
-- Learning MERN Stack.
-- Intrested in WEB3 & CyberSecurity.
-- Practice DSA Everyday.
 
 ---
 
-![snake svg](https://github.com/shubhansu-kr/shubhansu-kr/blob/output/github-contribution-grid-snake.svg)
-
-### 📊 Some Fun Stats
-
-![image](https://github-readme-stats.vercel.app/api?username=shubhansu-kr&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhansu-kr/shubhansu-kr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhansu-kr/shubhansu-kr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhansu-kr/shubhansu-kr/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -36,16 +30,6 @@ Passionate about technology and want to learn & explore new technologies.
 
 ![Github-Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr)
 
----
-
-### Connect with me: [shubhansu-kr.me](https://linktr.ee/shubhansu)
-
-[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/shubhansu-kr)
-[![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/shubhansu-kr)
-&nbsp;&nbsp;
-[![Ig](./Images/instagram-light.svg)](https://www.instagram.com/shubhansu_kumar/)
-[![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/shubhansu_kumar/)
-&nbsp;&nbsp;
 
 ---
 
@@ -53,21 +37,13 @@ Passionate about technology and want to learn & explore new technologies.
 
 [![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr&" alt="shubhansu-kr" /></p> -->
-<!-- ![Header png](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+---
 
-<!-- [![website](./Images/mail-light.svg)](mailto:shubhansu2021@gmail.com)  -->
+### Connect with me: [shubhansu-kr](https://linktr.ee/shubhansu)
 
-<!-- <h2> Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <Image height="180" src="https://github-profile-trophy.vercel.app/?username=shubhansu-kr&column=8&theme=algolia&no-frame=true"/>
-</a> -->
-
-<!-- ### 🍁 My Skill stack :
-<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-
-<!-- ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhansu-kr&theme=midnight-purple)  -->
-
-<!-- [![shubhansu-kr github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhansu-kr&theme=react-dark)](https://github.com/shubhansu-kr) -->
-
-<!-- <Image src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
+[![ln](./Images/linkedin-light.svg)](https://www.linkedin.com/in/shubhansu-kr)
+[![ln](./Images/linkedin-dark.svg)](https://www.linkedin.com/in/shubhansu-kr)
+&nbsp;&nbsp;
+[![Ig](./Images/instagram-light.svg)](https://www.instagram.com/shubhansu_kumar/)
+[![Ig](./Images/instagram-dark.svg)](https://www.instagram.com/shubhansu_kumar/)
+&nbsp;&nbsp;
