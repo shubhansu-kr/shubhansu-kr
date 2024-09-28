@@ -19,8 +19,7 @@
 
 ## Competitive Programming
 
-- [LeetCode](https://leetcode.com/shubhansu-kr/) : 550+ Problems (Data Structures and Algorithms).
-- [CodeForces](https://codeforces.com/profile/shubhansu-kr) : Newbie.
+- [LeetCode](https://leetcode.com/shubhansu-kr/) : 950+ Problems (Data Structures and Algorithms).
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhansu-kr)
 
@@ -35,7 +34,7 @@
 
 ### MyBadges
 
-[![@shubhansu_kr's Holopin board](https://holopin.io/api/user/board?user=shubhansu_kr)](https://holopin.io/@shubhansu_kr)
+[![An image of @shubhansu_kr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhansu_kr)](https://holopin.io/@shubhansu_kr)
 
 ---
 
