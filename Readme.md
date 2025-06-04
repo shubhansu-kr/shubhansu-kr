@@ -4,8 +4,20 @@
 
 ## About
 
-👋 Hi there! I'm shubhansu-kr, a passionate software developer with a love for coding and problem-solving. My expertise lies in C/C++, Java, MERN Stack, and I enjoy building scalable and efficient applications. Currently pursuing B.Tech in Computer Science from LPU, I'm dedicated to staying updated with the latest technologies and contributing to open-source projects. When I'm not glued to my computer screen, you can find me playing chess or volleyball. Let's connect and collaborate on exciting projects!
+Hey there! Just another curious mind professionally debugging life as a Software Engineer.
 
+By day, I write code that hopefully compiles on the first try (spoiler: it doesn't).  
+By night, I duel with LeetCode problems and push commits like it's a game of chess with C++.
+
+🔭 Currently building:
+
+- Microservice apps that don’t crash (most of the time)
+- Side projects that solve my own problems
+- Repos that future-me will never look back into
+
+📦 Fun fact: I version control everything except my sleep schedule.
+
+Let's connect, collab, or just geek out over clean code and cool projects!
 
 ---
 
@@ -19,7 +31,7 @@
 
 ## Competitive Programming
 
-- [LeetCode](https://leetcode.com/shubhansu-kr/) : 950+ Problems (Data Structures and Algorithms).
+- [LeetCode](https://leetcode.com/shubhansu-kr/) : 1000+ Problems (Data Structures and Algorithms).
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=shubhansu-kr)
 
@@ -28,7 +40,6 @@
 ## Streaks
 
 ![Github-Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shubhansu-kr)
-
 
 ---
 
